@@ -1,25 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  Este repositorio es creado para presentar la prueba de ingreso para la empresa Misión Empresarial
+  Desarrollado con el lenguaje Ruby y Framework Ruby On Rails
+  
+  
+  CLI del proyecto
+  Correr el servidor >> "rails server"
+  Crear la base de datos >> "rake db:create "
+  Correr el seed de base de datos >> "rake db:seed"
+  Reaizar la migración >> "rake db:migrate"
+  
+  Las validaciones están realizadas con el ORM de rails, pudiendose migrar a Jquery u otro framework frontend para mayor      efectividad.
+  
+  
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # misionEmpresarial
